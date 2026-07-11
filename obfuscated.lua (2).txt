@@ -1,4 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
+-- This script was generated using Nigga Hub Scripts Kys
 
 local iy,tv,Cv,Cu,Ar,Nx=type,getmetatable,bit32.bxor,pairs
 local zc,qw,py,wy,cy,fv,Xo,Vs,Dk,mA,He,Pa,ip,Rv,yA,Vf,Hm,rv,iG,pg,zt,gA,qG,Pd,BE;
